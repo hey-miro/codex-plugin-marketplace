@@ -3,7 +3,7 @@
 Install the marketplace:
 
 ```bash
-codex plugin marketplace add miro/codex-plugin-marketplace --ref main
+codex plugin marketplace add hey-miro/codex-plugin-marketplace --ref main
 ```
 
 Install Backend Code Guide:
