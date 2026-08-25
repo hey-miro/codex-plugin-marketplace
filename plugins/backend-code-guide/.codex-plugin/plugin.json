@@ -1,0 +1,18 @@
+{
+  "name": "backend-code-guide",
+  "version": "0.1.0",
+  "description": "Explain unfamiliar code with Java and Go backend analogies and concrete execution traces.",
+  "author": {
+    "name": "Miro"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Backend Code Guide",
+    "shortDescription": "Understand unfamiliar code through backend analogies.",
+    "longDescription": "Trace unfamiliar code and explain its control flow, state, boundaries, and failure modes with concise Java and Go backend analogies.",
+    "developerName": "Miro",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Explain this unfamiliar code using Java or Go backend analogies and trace one concrete request through it."
+  }
+}
