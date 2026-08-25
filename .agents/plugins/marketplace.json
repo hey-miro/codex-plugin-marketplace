@@ -1,0 +1,20 @@
+{
+  "name": "miro-codex-plugins",
+  "interface": {
+    "displayName": "Miro Codex Plugins"
+  },
+  "plugins": [
+    {
+      "name": "backend-code-guide",
+      "source": {
+        "source": "local",
+        "path": "./plugins/backend-code-guide"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
